@@ -5,5 +5,7 @@ console.log("¡Hola mundo!");
 //git add
 //git commit
 //git a-commit
+//git log
 //git checkout -- nombredelarchivo
 //git diff nombredelarchivo
+//.git ignore
