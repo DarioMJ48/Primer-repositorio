@@ -9,3 +9,5 @@ console.log("¡Hola mundo!");
 //git checkout -- nombredelarchivo
 //git diff nombredelarchivo
 //.git ignore
+//git commit -m ""
+//git branch
