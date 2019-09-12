@@ -11,5 +11,5 @@ console.log("¡Hola mundo!");
 //.git ignore
 //git commit -m ""
 //git branch (se usa con checkout)
-//
+//wq
 //
